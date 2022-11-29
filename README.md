@@ -1,47 +1,37 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"> <code>[<img src="https://pbs.twimg.com/media/Dsw0HsjWwAA-8fE.jpg" height="110px">](https://www.facebook.com/joansebastian.cardozosalinas.925/)⠀Hi there⠀|⠀⠀👋⠀⠀|</code> </h1>
+# <h1 align="center"> <code>[<img src="https://i.pinimg.com/originals/64/2b/37/642b370007f636ae562f3077048e14e2.jpg" height="200px">](https://www.facebook.com/joansebastian.cardozosalinas.925/)⠀Hi there⠀|⠀⠀👋⠀⠀|</code> </h1>
 
 <div align="center">
-<img height="165px" src='https://github-readme-stats.vercel.app/api?username=PintoGamer64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true' align="right">
+<img height="165px" src='https://githubstats-ob7t22mzf-bac0nb0yy.vercel.app/api?username=bac0nb0yy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true' align="right">
 </div>
 
 <div align="left">
 Hello, my name is Danil Telnov or bac0nb0yy for friends, I'm a junior programmer of 18yo who is at the 42 school.
 </div>
-
-[Contacto](mailto:cardozojoan13@gmail.com?subject=Portfolio%20%7C%20Contact%20Page&body=%2F%2FEspa%C3%B1ol%0AHola%2C%20te%20escribo%20desde%20el%20link%20de%20correo%20de%20tu%20portfolio.%20I%20am%20.....%0A%0A%2F%2FIngles%0AHello%2C%20I%20am%20writing%20to%20you%20from%20the%20email%20link%20of%20your%20portfolio.%20I%20am%20.....)
 <br>
 
 * I am from Paris, France.
 * Software Engineer.
 * I'm studying at 42 school.
-
 <br>
 
 
-| ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PintoGamer64&layout=compact&theme=radical&hide_border=true&langs_count=5) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=pintogamer64&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
-| ----- | ----- |
+![Profile Stats](https://githubstats-ob7t22mzf-bac0nb0yy.vercel.app/api/top-langs/?username=bac0nb0yy&layout=compact&theme=radical&hide_border=true&langs_count=5) 
   
 
 # > <code>⠀⠀💻⠀⠀Skills⠀⠀</code>
 <p align="center">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="95" hight="45">
-  <img src="https://github.com/mayhemantt/mayhemantt/blob/master/svg/dev/services/aws.svg" alt="aws"  width="95" hight="45">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="PC user"  width="95" hight="45">
-  <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="95" hight="45">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="PC user"  width="150" hight="90">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="135" hight="90" style="vertical-align:top; margin:4px">    
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="150" hight="90" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="82" hight="90" style="vertical-align:top; margin:4px">
 </p>
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PintoGamer64&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bac0nb0yy&theme=react-dark&hide_border=true)
 
 ![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
-
-## > Provided by <code> [Readme Stats](https://github.com/anuraghazra/github-readme-stats)</code>  &  <code> [Spotify Profile](https://github.com/kittinan/spotify-github-profile)</code> & <code> [Activity Gragh](https://github.com/Ashutosh00710/github-readme-activity-graph) </code>
+</code>
