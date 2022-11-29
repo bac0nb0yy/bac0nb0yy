@@ -24,8 +24,8 @@ Hello, my name is Danil Telnov or bac0nb0yy for friends, I'm a junior programmer
 <p align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="PC user"  width="150" hight="90">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="135" hight="90" style="vertical-align:top; margin:4px">    
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="150" hight="90" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="82" hight="90" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="149" hight="90" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="80" hight="90" style="vertical-align:top; margin:4px">
 </p>
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
