@@ -1,6 +1,6 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"><code><img src="https://i.pinimg.com/originals/64/2b/37/642b370007f636ae562f3077048e14e2.jpg" height="200px"> Hi there⠀|⠀⠀👋 |</code> </h1>
+# <h1 align="center"><code><img src="[https://i.pinimg.com/originals/64/2b/37/642b370007f636ae562f3077048e14e2.jpg](https://i.pinimg.com/originals/33/87/3f/33873fb3c78e3f2385a444b2130ff005.png)" height="200px"> Hi there⠀|⠀⠀👋 |</code> </h1>
 
 <div align="center">
 <img height="165px" src='https://githubstats-ob7t22mzf-bac0nb0yy.vercel.app/api?username=bac0nb0yy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true' align="right">
