@@ -1,6 +1,6 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"><code><img src="[https://i.pinimg.com/originals/64/2b/37/642b370007f636ae562f3077048e14e2.jpg](https://i.pinimg.com/originals/33/87/3f/33873fb3c78e3f2385a444b2130ff005.png)" height="200px"> Hi there⠀|⠀⠀👋 |</code> </h1>
+# <h1 align="center"><code><img src="https://i.redd.it/f0tgcrdep4m71.jpg" height="200px"> Hi there⠀|⠀⠀👋 |</code> </h1>
 
 <div align="center">
 <img height="165px" src='https://githubstats-ob7t22mzf-bac0nb0yy.vercel.app/api?username=bac0nb0yy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true' align="right">
@@ -33,5 +33,5 @@ Hello, my name is Danil Telnov or bac0nb0yy for friends, I'm a junior programmer
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bac0nb0yy&theme=react-dark&hide_border=true)
 
-![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
+![RWBY Image Beach Wallpaper](https://i.pinimg.com/736x/80/28/28/802828187b53e4ed19020287d629bab7.jpg)
 </code>
