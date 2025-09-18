@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danil</h1>
 <h3 align="center">A passionate developer in 42 School, Paris</h3>
 
-- 📫 How to reach me **kyuma@pm.me**
+- 📫 **kyuma@pm.me** to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
